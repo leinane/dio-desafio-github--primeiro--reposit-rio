@@ -1,6 +1,6 @@
 Dio-desafio-github-primeiro-repositorio
+repositório para desenvolvimento de projetos
 
-repositório para desafio de projetos
-Links úteis.
 
+ links úteis
 [sintaxe basica markdown](https://www.markdownguide.org/getting-started/) 
